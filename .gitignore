@@ -1,0 +1,45 @@
+# Vendor (Composer dependencies)
+/vendor/
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+Thumbs.db
+
+# Environment & Config files
+.env
+.env.local
+.env.production
+/app/config/database.php
+
+# Log files
+*.log
+/logs/
+
+# Cache files
+/cache/
+/tmp/
+
+# Upload files (user uploaded content)
+/uploads/*
+!/uploads/.gitkeep
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Desktop.ini
+
+# PHP
+composer.phar
+composer.lock
+
+# Session files
+/sessions/
+
