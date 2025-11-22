@@ -292,10 +292,6 @@ project/
 4. Branch'inizi push edin (`git push origin feature/amazing-feature`)
 5. Pull Request oluşturun
 
-## 📝 Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır.
-
 ## 👨‍💻 Geliştirici
 
 **Diyar Aslan** - [GitHub](https://github.com/AslanSoftCom)
